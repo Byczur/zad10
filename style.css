@@ -18,7 +18,18 @@ td
     padding: 10px;
     text-align: center;
 }
-
+.green1
+{
+    background-color: rgb(145,255,172);
+}
+.green2
+{
+    background-color:  rgb(75,223,111);
+}
+.green3
+{
+    background-color: rgb(51,171,80);
+}
 
 
 table
