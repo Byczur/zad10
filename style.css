@@ -1,0 +1,32 @@
+body
+{
+    background-color: rgb(13, 1, 18);
+    color: green;
+}
+
+th 
+{
+    border: 1px solid green;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(57, 32, 2);
+}
+
+td 
+{
+    border: 1px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.helsinki
+{
+    background-color: rgb(222, 240, 226);
+}
+
+table
+{
+    margin-top: 50px;
+    
+}
