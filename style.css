@@ -1,4 +1,28 @@
+body
+{
+    background-color: rgb(13, 1, 18);
+    color: green;
+}
+
 th 
 {
+    border: 1px solid;
+    padding: 10px;
+    text-align: center;
     background-color: blue;
+}
+
+td 
+{
+    border: 1px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+table
+{
+    margin-top: 50px;
+    
 }
